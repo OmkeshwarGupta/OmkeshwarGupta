@@ -11,7 +11,7 @@
        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
      </a> 
      <br/> 
-     <img src="https://komarev.com/ghpvc/?username=saurabhanilpandey&style=flat-square&color=blue" alt=""/> 
+     <img src="https://komarev.com/ghpvc/?username=OmkeshwarGupta &style=flat-square&color=blue" alt=""/> 
    </div> 
     
    <!-- Greetings --> 
@@ -28,18 +28,7 @@
   
  --- 
   
- ### Languages and Tools : 
- <div> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>&nbsp; 
-   
-   
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50"/> 
- </div> 
+ 
   
  --- 
   

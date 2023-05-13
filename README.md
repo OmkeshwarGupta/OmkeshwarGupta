@@ -1,14 +1,71 @@
-<h1 align="center">Hi 👋, I'm Omkeshwar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkeshwargupta&label=Profile%20views&color=0e75b6&style=flat" alt="omkeshwargupta" /> </p>
-
-- 🔭 I’m Post-Graduate student of [Banaras Hindu University](https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site)
-
-- 🌱 I’m currently learning about **Web Development and App Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omkeshwar-gupta-a54590137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkeshwar-gupta-a54590137" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div id="header" align="center"> 
+   <!-- Yoda --> 
+   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100" height="100"/> 
+    
+   <!-- How to connect with me --> 
+   <div id="badges"> 
+     <a href="https://linkedin.com/in/omkeshwar-gupta-a54590137/"> 
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+     </a> 
+     <a href="https://twitter.com/Om_nivert"> 
+       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
+     </a> 
+     <br/> 
+     <img src="https://komarev.com/ghpvc/?username=saurabhanilpandey&style=flat-square&color=blue" alt=""/> 
+   </div> 
+    
+   <!-- Greetings --> 
+   <h1> 
+     Hello, I'm Omkeshwar!  
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+   </h1> 
+ </div> 
+  
+ ### About Me : 
+ - 🔭 I’m a post-graduate student at [Banaras Hindu University](https://bhu.ac.in/Site/Home/1_2_16_Main-Site), pursuing Master's in Computer Science 
+ - 🌱 I’m currently learning about web development and app development 
+ 
+  
+ --- 
+  
+ ### Languages and Tools : 
+ <div> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>&nbsp; 
+   
+   
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50"/> 
+ </div> 
+  
+ --- 
+  
+ ### My Statistics : 
+ <div align ="center"> 
+   <!-- Github Statistics --> 
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OmkeshwarGupta&theme=gruvbox"/></a> 
+    
+   <!-- Top Lanaguage --> 
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkeshwarGupta &layout=compact&theme=dark"/></a> 
+ </div> 
+  
+ --- 
+  
+ ###  
+ <!-- 
+ **saurabhanilpandey/saurabhanilpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+  
+ Here are some ideas to get you started: 
+  
+ - 🔭 I’m currently working on ... 
+ - 🌱 I’m currently learning ... 
+ - 👯 I’m looking to collaborate on ... 
+ - 🤔 I’m looking for help with ... 
+ - 💬 Ask me about ... 
+ - 📫 How to reach me: ... 
+ - 😄 Pronouns: ... 
+ - ⚡ Fun fact: ... 
+ -->

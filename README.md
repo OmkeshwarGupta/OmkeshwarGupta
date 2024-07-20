@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/omkeshwargupta/](https://www.linkedin.com/in/omkeshwargupta/)
+- 👨‍💻 All of my projects are available at [Omkeshwar Gupta](https://www.omkeshwar.vercel.app)
 
 - 📫 How to reach me **omkeshwar@bhu.ac.in**
 
